@@ -1,4 +1,4 @@
-local frame = script.Parent.Parent.MenuFrame
+local frame = script.Parent.Parent.MenuFrame //Change to your frame's name
 local open = false
 
 script.Parent.MouseButton1Click:Connect(function()
